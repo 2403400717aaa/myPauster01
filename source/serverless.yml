@@ -1,0 +1,15 @@
+component: website
+name: website-uHn412U7R
+org: '1306559497'
+app: bobo
+stage: test
+inputs:
+  src:
+    src: ./
+    index: index.html
+    error: index.html
+  region: ap-guangzhou
+  bucketName: my-bucket-y79cibs
+  protocol: http
+  isAutoCiDeploy: false
+  replace: false
